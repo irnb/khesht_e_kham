@@ -17,3 +17,7 @@
 <br>
 
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/newbateni2/khesht_e_kham/master/%D8%B9%DA%A9%D8%B3%20%D9%87%D8%A7/mainpage.jpg">
+</p>
