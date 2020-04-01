@@ -1,7 +1,8 @@
-<p dir='rtl' align='right'>
-خشت خام
-</p>
-<br>
+<div dir="rtl">
+    <h1 dir="rtl">
+        خشت خام
+    </h1>
+    <br>
 <p dir='rtl' align='right'>
 خشت خام  مجموعه گفت و گوهای ویدئویی به سبک تاریخ شفاهی
   هستش و این مجموعه به کارگردانی و پرسشگری حسین دهباشی ساخته شده . تو این مجموعه دهباشی با شخصیت های سیاسی تاریخ معاصر گفت و گو می کنه .  
@@ -21,3 +22,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/newbateni2/khesht_e_kham/master/%D8%B9%DA%A9%D8%B3%20%D9%87%D8%A7/mainpage.jpg">
 </p>
+
+    
+
+</div>
